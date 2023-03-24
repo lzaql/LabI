@@ -23,3 +23,5 @@ def profile(itemid):
     return f'<h1>Страничка товара {itemid}</h1>'
 
 app.run(host='127.0.0.21', port='80', debug=True)
+
+hahah
